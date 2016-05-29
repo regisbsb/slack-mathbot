@@ -10,6 +10,7 @@ A math bot for Slack. Math is good for you.
 ## Installation
 
 See [DEPLOYMENT](DEPLOYMENT.md).
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## Usage
 
